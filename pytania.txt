@@ -1,0 +1,21 @@
+﻿
+Jaka jest stolica Polski? ; Warszawa ; Kraków ; Lublin ; Szczecin ; 1
+Jaka jest stolica Niemiec? ; Bonn ; Kolonia ; Drezno ; Berlin ; 4
+Jaka jest stolica USA? ; Detroit ; Nowy Jork ; Waszyngton ; Chicago ; 3
+Jaka jest stolica Rosji? ; Kazań ; Petersburg ; Moskwa ; Omsk ; 3
+Jaka jest stolica Wielkiej Brytanii? ; Liverpool ; Londyn ; Glasgow ; Dublin ; 2
+Jaka jest stolica Polski? ; Warszawa ; Kraków ; Lublin ; Szczecin ; 1
+Jaka jest stolica Niemiec? ; Bonn ; Kolonia ; Drezno ; Berlin ; 4
+Jaka jest stolica USA? ; Detroit ; Nowy Jork ; Waszyngton ; Chicago ; 3
+Jaka jest stolica Rosji? ; Kazań ; Petersburg ; Moskwa ; Omsk ; 3
+Jaka jest stolica Wielkiej Brytanii? ; Liverpool ; Londyn ; Glasgow ; Dublin ; 2
+Jaka jest stolica Polski? ; Warszawa ; Kraków ; Lublin ; Szczecin ; 1
+Jaka jest stolica Niemiec? ; Bonn ; Kolonia ; Drezno ; Berlin ; 4
+Jaka jest stolica USA? ; Detroit ; Nowy Jork ; Waszyngton ; Chicago ; 3
+Jaka jest stolica Rosji? ; Kazań ; Petersburg ; Moskwa ; Omsk ; 3
+Jaka jest stolica Wielkiej Brytanii? ; Liverpool ; Londyn ; Glasgow ; Dublin ; 2
+Jaka jest stolica Polski? ; Warszawa ; Kraków ; Lublin ; Szczecin ; 1
+Jaka jest stolica Niemiec? ; Bonn ; Kolonia ; Drezno ; Berlin ; 4
+Jaka jest stolica USA? ; Detroit ; Nowy Jork ; Waszyngton ; Chicago ; 3
+Jaka jest stolica Rosji? ; Kazań ; Petersburg ; Moskwa ; Omsk ; 3
+Jaka jest stolica Wielkiej Brytanii? ; Liverpool ; Londyn ; Glasgow ; Dublin ; 2
